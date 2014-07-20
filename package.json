@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "start": "node ./bin/webmotely -p 80"
+    "start": "node ./bin/webmotely -p 3000"
   },
   "dependencies": {
     "express": "^4.6.1",

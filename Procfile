@@ -1,1 +1,1 @@
-web: node ./bin/webmotely -p 80
+web: node ./bin/webmotely -p $PORT
