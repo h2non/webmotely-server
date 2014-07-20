@@ -1,1 +1,1 @@
-web: node ./lib/server.js
+web: node ./bin/webmotely -p 80

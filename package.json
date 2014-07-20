@@ -3,11 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "start": "node ./lib/server"
+    "start": "node ./bin/webmotely -p 80"
   },
   "dependencies": {
     "express": "^4.6.1",
     "primus.io": "^3.1.1",
-    "ws": "^0.4.31"
+    "ws": "^0.4.31",
+    "yargs": "^1.2.6"
   }
 }

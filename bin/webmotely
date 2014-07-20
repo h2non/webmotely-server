@@ -1,0 +1,11 @@
+#!/usr/bin/env node
+
+var server = require('../lib/server')
+var argv = require('yargs')
+    .usage('Usage: $0 -p [port] -h [host]')
+    .alias('p', 'port')
+    .default('p', 3000)
+    .describe('p', 'Server port')
+    .argv
+
+server.create(argv)
