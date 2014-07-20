@@ -1,6 +1,8 @@
 # webmotely-server
 
-Webmotely server powered by Node.js and WebSockets (proof of concept)
+> This project is a proof of concept
+
+Webmotely server powered by Node.js and WebSockets
 
 ## Setup
 
