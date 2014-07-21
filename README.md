@@ -1,8 +1,8 @@
-# webmotely-gateway
+# webmotely-server
 
 > This project is a proof of concept
 
-**Webmotely** peers gateway server powered by node.js and WebSockets
+**Webmotely** gateway server powered by node.js and WebSockets
 
 To see it in action, visit the [demo](http://webmotely.github.io/demo) page
 
@@ -10,7 +10,7 @@ To see it in action, visit the [demo](http://webmotely.github.io/demo) page
 
 Clone this repository
 ```bash
-git clone https://github.com/webmotely/webmotely-gateway.git && cd webmotely-gateway
+git clone https://github.com/webmotely/webmotely-server.git && cd webmotely-server
 ```
 
 Install runtime dependencies
